@@ -9,7 +9,7 @@ public class Asignatura {
     Tipo tipo;
 
     Asignatura() {
-    	this("sin nombre", Tipo.FUNDAMENTACION);
+    	this("Sin nombre", Tipo.FUNDAMENTACION);
     }
 
     /*Asignatura(int codigoInterno,Tipo tipo) {

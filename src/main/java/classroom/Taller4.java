@@ -20,6 +20,8 @@ public class Taller4 {
         grupo2.cambiarEstudiante(1, estudiantes1[2]);
         grupo2.cambiarEstudiante(estudiantes1[0], estudiantes1[1]);
 
+       
+        //respuestas 
         System.out.println(new Asignatura().nombre);
         System.out.println(grupo2.codigo);
         System.out.println(asignatura2.codigoExterno);
